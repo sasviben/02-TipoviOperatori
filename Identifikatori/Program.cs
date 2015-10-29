@@ -9,6 +9,12 @@ namespace CSharp.TipoviOperatori
     {
         static void Main(string[] args)
         {
+            int @string = 5;//ako zelimo koristiti kljucne rijeci za ime varijable
+            string get = "Pero";
+            double Main = 3.14;
+            long \u0161etrdesetšest = 46;
+            Console.WriteLine(šetrdesetšest);
+
         }
     }
 }
